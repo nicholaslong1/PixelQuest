@@ -16,7 +16,8 @@ public class PixelQuestForm extends javax.swing.JFrame {
      */
     public PixelQuestForm() {
         initComponents();
-        
+        System.out.println("Trial!");
+              
     }
 
     /**

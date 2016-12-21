@@ -1,10 +1,7 @@
 
 package pixelQuest;
 public class PixelQuestForm extends javax.swing.JFrame {
-    //Trial 2
-    //Trial
-    //Instructions are gonna happen
-    //whoa
+
     public PixelQuestForm() {
         initComponents();
               

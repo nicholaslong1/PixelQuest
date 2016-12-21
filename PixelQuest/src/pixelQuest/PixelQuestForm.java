@@ -1,7 +1,5 @@
 
 package pixelQuest;
-
-
 public class PixelQuestForm extends javax.swing.JFrame {
 
     public PixelQuestForm() {
